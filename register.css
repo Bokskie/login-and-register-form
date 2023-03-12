@@ -1,0 +1,44 @@
+.form 
+{
+    background-color: rgb(0, 195, 255);
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    position: relative;
+    top: 6rem;
+    padding: 20px;
+    border-radius: 1rem;
+}
+form 
+{
+    text-align: left;
+}
+input 
+{
+    width: 50%;    
+    padding: 8px;
+    border-radius: 1rem;
+}
+button
+{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 1rem;
+    width: 20%;
+    margin: 0 auto;
+}
+button:hover 
+{
+    background: green;
+}
+p
+{
+    text-align: center;
+
+}
+a 
+{
+    color: red;
+}
